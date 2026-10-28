@@ -8,7 +8,6 @@ Backup of the ROOT folder used to root the Infinix Hot 30 (X6831, Android 13) wi
 - Magisk.v26.3.apk â Magisk 26.3 installer
 - build.prop â device build.prop
 - bloatware-removed.txt â current debloat list (73 packages, pm uninstall --user 0)
-- bloatware-removed.txt.bak / bloatware-removed-75.bak â earlier debloat lists
 - root.sh â ORIGINAL script from the laptop, kept for reference only
 
 ## WARNING â do NOT run root.sh blindly
