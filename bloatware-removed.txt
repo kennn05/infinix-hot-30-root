@@ -2,7 +2,7 @@
 # Method: adb shell pm uninstall --user 0 <package> (reversible, APKs stay in system partition)
 # Restore one: adb shell cmd package install-existing <package>
 # Factory reset restores everything.
-# Total: 73 packages
+# Total: 80 packages
 com.transsion.carlcare
 com.transsion.phonemanager
 com.transsion.phonemaster
@@ -76,3 +76,11 @@ com.google.mainline.adservices
 com.google.android.feedback
 com.google.android.cellbroadcastreceiver
 com.android.managedprovisioning
+# Added 2026-10-30 (7 packages)
+com.android.dreams.basic
+com.transsion.overlaysuw
+com.android.uwb.resources
+com.android.traceur
+android.autoinstalls.config.transsion.device
+com.tinno.productInfo
+com.google.mainline.telemetry
